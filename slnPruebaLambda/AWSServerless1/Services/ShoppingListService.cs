@@ -20,6 +20,10 @@ namespace AWSServerless1.Services
             _shoppingListStorage.Add(shoppingList.Name, shoppingList.Quantity);
         }
 
+        public void RemoveItemShoppingList(string shoppingListName)
+        {
+            _shoppingListStorage.Remove(shoppingListName);
+        }
     }
 }
     

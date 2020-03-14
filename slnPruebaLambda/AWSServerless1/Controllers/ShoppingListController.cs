@@ -33,5 +33,11 @@ namespace AWSServerless1.Controllers
 
             return Ok();
         }
+
+        public IActionResult RemoveItemShoppingList([FromBody] ShoppingList shoppingList)
+        {
+            _shoppingListService.RemoveItemShoppingList(shoppingList.Name);
+            return Ok();
+        }
     }
 }

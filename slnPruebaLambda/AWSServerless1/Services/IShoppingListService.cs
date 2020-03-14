@@ -8,5 +8,8 @@ namespace AWSServerless1.Services
 
         Dictionary<string, int> GetItemFromShoppingList();
         void AddItemShoppingList(ShoppingList shoppingList);
+
+        void RemoveItemShoppingList(string shoppingList);
+
     }
 }

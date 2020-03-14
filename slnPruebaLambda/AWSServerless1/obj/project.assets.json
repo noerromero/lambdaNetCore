@@ -12840,25 +12840,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\noeromero\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Noe\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PER\\tech\\lambdaNetCore\\slnPruebaLambda\\AWSServerless1\\AWSServerless1.csproj",
+      "projectUniqueName": "D:\\PER\\Pruebas\\lambdaNetCore\\lambdaNetCore\\slnPruebaLambda\\AWSServerless1\\AWSServerless1.csproj",
       "projectName": "AWSServerless1",
-      "projectPath": "D:\\PER\\tech\\lambdaNetCore\\slnPruebaLambda\\AWSServerless1\\AWSServerless1.csproj",
-      "packagesPath": "C:\\Users\\noeromero\\.nuget\\packages\\",
-      "outputPath": "D:\\PER\\tech\\lambdaNetCore\\slnPruebaLambda\\AWSServerless1\\obj\\",
+      "projectPath": "D:\\PER\\Pruebas\\lambdaNetCore\\lambdaNetCore\\slnPruebaLambda\\AWSServerless1\\AWSServerless1.csproj",
+      "packagesPath": "C:\\Users\\Noe\\.nuget\\packages\\",
+      "outputPath": "D:\\PER\\Pruebas\\lambdaNetCore\\lambdaNetCore\\slnPruebaLambda\\AWSServerless1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\noeromero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Noe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
